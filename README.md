@@ -2,13 +2,8 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <h3>Howdy! 🤠</h3>
-      <p>My name is Mike and I am a developer based in Chicago. I am currently working through a coding bootcamp to upgrade my self-taught skills to mad skillz, and I think it's going well. Watch this space as I build out my profile and get some swanky projects to show off.</p>
-      <h3>Links!</h3>
-      <ul>
-      <li><a href="https://www.linkedin.com/in/mikemccomb/" target="_blank">LinkedIn</a></li>
-      <li><a href="https://twitter.com/Rube_Goldberg" target="_blank">Twitter</a></li>
-      <li><a href="mailto:mikemccomb@gmail.com" target="_blank">Email</li>
-      <li><a href="https://www.eurowhat.com/" target="_blank">Podcast</li>
+      <p>As an experienced software developer, project manager, and problem solver, I strive for excellence and elegance in producing quality digital content. Through collaboration with cross-functional teams, I seek out efficiencies along the way to creating delightful user experiences. With a knack for organization and documentation, I keep an eye on the horizon while addressing the devil in the details. How can I help you today?</p>
+      <p>You can find out more about my professional background over on <a href="https://www.linkedin.com/in/mikemccomb/" target="_blank">LinkedIn</a></p>
       </div>
   </foreignObject>
 </svg>
